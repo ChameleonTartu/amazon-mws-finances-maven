@@ -8,7 +8,7 @@
     <packaging>jar</packaging>
     <name>Amazon MWS :: Finances</name>
     <description>Amazon MWS Finances API Client Library</description>
-    <url>https://github.com/ChameleonTartu/amazon-mws-fulfillment-inbound-shipment-maven</url>
+    <url>https://github.com/ChameleonTartu/amazon-mws-finances-maven</url>
 
     <licenses>
         <license>
