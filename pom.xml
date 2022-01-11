@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.github.chameleontartu</groupId>
     <artifactId>amazon-mws-finances-maven</artifactId>
-    <version>1.2.0</version>
+    <version>1.5.0</version>
     <packaging>jar</packaging>
     <name>Amazon MWS :: Finances</name>
     <description>Amazon MWS Finances API Client Library</description>

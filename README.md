@@ -2,8 +2,10 @@
 Mavenized version of Amazon MWS Finances API
 
 [![Hits-of-Code](https://hitsofcode.com/github/chameleontartu/amazon-mws-finances-maven)](https://hitsofcode.com/view/github/chameleontartu/amazon-mws-finances-maven)
-[![Build Status](https://travis-ci.com/ChameleonTartu/amazon-mws-finances-maven.svg?branch=master)](https://travis-ci.com/ChameleonTartu/amazon-mws-finances-maven)
-![Maven Central](https://img.shields.io/maven-central/v/com.github.chameleontartu/amazon-mws-finances-maven)
+[![Linux](https://github.com/ChameleonTartu/amazon-mws-finances-maven/actions/workflows/linux.yml/badge.svg)](https://github.com/ChameleonTartu/amazon-mws-finances-maven/actions/workflows/linux.yml)
+[![MacOS](https://github.com/ChameleonTartu/amazon-mws-finances-maven/actions/workflows/macos.yml/badge.svg)](https://github.com/ChameleonTartu/amazon-mws-finances-maven/actions/workflows/macos.yml)
+[![Windows](https://github.com/ChameleonTartu/amazon-mws-finances-maven/actions/workflows/windows.yml/badge.svg)](https://github.com/ChameleonTartu/amazon-mws-finances-maven/actions/workflows/windows.yml)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-finances-maven/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.chameleontartu/amazon-mws-finances-maven/)
 [![](https://jitpack.io/v/ChameleonTartu/amazon-mws-finances-maven.svg)](https://jitpack.io/#ChameleonTartu/amazon-mws-finances-maven)
 
 # How to use into Maven (pom.xml)
@@ -16,7 +18,7 @@ The library published into Maven Central repository
 <dependency>
   <groupId>com.github.chameleontartu</groupId>
   <artifactId>amazon-mws-finances-maven</artifactId>
-  <version>1.2.0</version>
+  <version>1.5.0</version>
 </dependency>
 ```
 
@@ -40,7 +42,7 @@ Dependency itself:
 <dependency>
     <groupId>com.github.chameleontartu</groupId>
     <artifactId>amazon-mws-finances-maven</artifactId>
-    <version>1.2.0</version>
+    <version>1.5.0</version>
 </dependency>
 ```
 
@@ -59,10 +61,16 @@ The other MWS projects that ported from Ant to Maven. See [docs](https://github.
 |--------------|
 | 2020-02-21   |
 
+# MWS library changes
+
+[MWS Finances](https://docs.developer.amazonservices.com/en_US/finances/Finances_ClientLibraries.html)
+
 # Contribution
 
-To contribute to this project feel free to submit issues and PRs as well as questions and enhancement proposals.
+To contribute to this project feel free to submit issues, PRs, questions, enhancement proposals and support via cup of coffee.
 
-# TODO
+## How to support?
 
-This repo is one of the series of MWS API SDKs which I am planning to put under the same umbrella and keep them up-to-date.
+If you want to help this project to go, please star it and ports that were useful for you. Submit tickets. Share with your friends and colleagues.
+
+<a href="https://www.buymeacoffee.com/chameleontartu"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a coffee&emoji=&slug=chameleontartu&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00"></a>
